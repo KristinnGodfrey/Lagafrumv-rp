@@ -8,18 +8,16 @@ Kristinn Godfrey Guðnason
 
 Description 
 ---
-A project worked on with Bootstrap.
-
+A project worked on with Bootstrap. Vote to agree or disagree with parliament bills.
+ 
 Images
 ---
-![Page1](https://i.imgur.com/hkisfpe.png)
+![Page1](https://github.com/KristinnGodfrey/Lagafrumvorp/blob/master/19807796_10155461786482179_1288385456_o.png)
 
 Checklist
 ---
-- [x] Website running
-  - [x] One bookmark that links to an other website 
-- [x] Bonus:
-  - [x] Images
-  - [x] Header
-  - [x] Nav
+- [ ] Website running
+  - [ ] 
+- [ ] Bonus:
+  - [ ] Images
   
