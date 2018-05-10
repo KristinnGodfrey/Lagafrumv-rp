@@ -17,7 +17,6 @@ Images
 Checklist
 ---
 - [ ] Website running
-  - [ ] 
 - [ ] Bonus:
   - [ ] Images
   
