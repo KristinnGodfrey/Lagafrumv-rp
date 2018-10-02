@@ -8,7 +8,7 @@ Kristinn Godfrey Guðnason
 
 Description 
 ---
-A project worked on with Bootstrap. Vote to agree or disagree with parliament bills.
+A project worked on with Bootstrap.
  
 Images
 ---
